@@ -60,5 +60,4 @@
       <block type="movement_stop" id="554"></block>
     </next>
   </block>
-  <block type="movement_forward" id="487" x="179" y="190"></block>
 </xml>
