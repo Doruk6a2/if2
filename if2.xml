@@ -43,12 +43,12 @@
           </block>
         </value>
         <statement name="DO1">
-          <block type="movement_forward" id="12"></block>
+          <block type="movement_forward" id="11"></block>
         </statement>
         <next>
-          <block type="robot_delay" id="13" inline="true">
+          <block type="robot_delay" id="12" inline="true">
             <value name="DELAY">
-              <block type="math_number" id="14">
+              <block type="math_number" id="13">
                 <field name="NUM">200</field>
               </block>
             </value>
@@ -57,7 +57,7 @@
       </block>
     </statement>
     <next>
-      <block type="movement_stop" id="15"></block>
+      <block type="movement_stop" id="14"></block>
     </next>
   </block>
 </xml>
